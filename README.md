@@ -1,37 +1,5 @@
-👋 Hi, I’m a Full-Stack Developer
-I build modern, fast, and scalable web and mobile applications. For the past 4+ years, I’ve been working with a wide range of technologies, focusing on creating clean architecture, smooth UX, and reliable functionality.
-
-🛠️ Tech Stack
-
-Frontend:
-JavaScript, TypeScript, HTML, CSS
-React, Redux (Hooks, Saga, Thunk, Router), Styled Components, Material UI
-Next.js
-React Native (CLI & Expo)
-
-Backend:
-Node.js, Express.js
-Firebase (Firestore, Realtime Database)
-
-Databases:
-MySQL
-MongoDB
-Architecture & Patterns:
-MVC, MVP, MVVM
-
-📱 Projects I’ve Built
-
-I’ve developed and shipped various mobile and web applications, including:
-Messaging & chat platforms
-Social media applications
-Audio/video calling systems
-Streaming & entertainment products
-Payment and financial tools
-GPS & map-based tracking apps
-News & magazine apps
-🚀 What I Love Doing
-
-Building smooth interfaces, designing clean and maintainable architecture, and developing products that feel great to use.
+# 💫 About Me:
+👋 Hi, I'm a Full-Stack Developer<br>I build modern, fast, and scalable web and mobile applications. For the past 4+ years, I’ve been working with a wide range of technologies, focusing on creating clean architecture, smooth UX, and reliable functionality.<br><br>🛠️ Tech Stack<br><br>Frontend:<br>JavaScript, TypeScript, HTML, CSS<br>React, Redux (Hooks, Saga, Thunk, Router), Styled Components, Material UI<br>Next.js<br>React Native (CLI & Expo)<br><br>Backend:<br>Node.js, Express.js<br>Firebase (Firestore, Realtime Database)<br><br>Databases:<br>MySQL<br>MongoDB<br>Architecture & Patterns:<br>MVC, MVP, MVVM<br><br>📱 Projects I’ve Built<br><br>I’ve developed and shipped various mobile and web applications, including:<br>Messaging & chat platforms<br>Social media applications<br>Audio/video calling systems<br>Streaming & entertainment products<br>Payment and financial tools<br>GPS & map-based tracking apps<br>News & magazine apps<br>🚀 What I Love Doing<br><br>Building smooth interfaces, designing clean and maintainable architecture, and developing products that feel great to use.
 
 
 # 💻 Tech Stack:
